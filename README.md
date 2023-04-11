@@ -22,6 +22,7 @@
       <li>E – punkt opisujący ramie strzałki</li>
       <li>F – punkt opisujący ramie strzałki</li>
     </ul>
-    <!-- tu należy umieścić kod, który wyznaczy punkty D, E i F -->
+    ![image](https://user-images.githubusercontent.com/107955492/231236133-58f6b938-3a94-4358-b19f-1d1de34b033a.png)
+
   </body>
 </html>
