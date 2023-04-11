@@ -22,10 +22,8 @@
       <li>E – punkt opisujący ramie strzałki</li>
       <li>F – punkt opisujący ramie strzałki</li>
     </ul>
-   <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+ ![image](https://user-images.githubusercontent.com/107955492/231236899-a1870bb1-b62e-44ed-83a6-a12469b346ef.png)
+
 
   </body>
 </html>
