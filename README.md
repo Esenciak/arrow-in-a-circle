@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h3> Strzałka ukierunkowana w stronę punktu B </h3>
+    <h6> Strzałka ukierunkowana w stronę punktu B </h6>
   </head>
   <body>
     <h1>Korzystając z równania opisującego okręg o środku A i promieniu r oraz równania prostych wyznacz pkt D,E,F opisujący strzałkę ukierunkowaną w stronę pkt B, nachyloną pod kątem alpha</h1>
